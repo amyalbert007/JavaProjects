@@ -77,7 +77,7 @@ public class IFlatBookingController {
 	
 	
 	@DeleteMapping("/deleteFlatBooking/{bookingNo}")
-	public  ResponseEntity deleteFlatById(@PathVariable Integer bookingNo) throws FlatBookingNotFoundException
+	public  ResponseEntity deleteFlatBookingById(@PathVariable Integer bookingNo) throws FlatBookingNotFoundException
 	{
 		logger.info("===In Delete Controller===");
 		logger.info("deleteFlat/{bookingNo} URL is opened");

@@ -34,9 +34,6 @@ public class OnlineFlatRentalApp {
 			System.exit(0);
 		}
 	}  
-	@Bean
-	   public RestTemplate getRestTemplate() {
-	      return new RestTemplate();
-	   }
+	
 }
 
