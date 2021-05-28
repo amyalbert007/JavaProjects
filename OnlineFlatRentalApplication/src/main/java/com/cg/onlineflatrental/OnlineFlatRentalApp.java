@@ -30,7 +30,7 @@ public class OnlineFlatRentalApp {
 		System.out.println("------------------SERVER started---------PORT=8067--------------"
 				+ "");
 		}else {
-			System.out.println("Try again with valid credentials...");
+			System.out.println("Try again with valid credentials.....");
 			System.exit(0);
 		}
 	}  
