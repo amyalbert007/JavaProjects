@@ -118,38 +118,77 @@ public class IFlatBookingController {
 	
 	/*
 	 *  {
-        "bookingNo": 20,
+        "bookingNo": 41,
         "flat": {
-            "flatId": 100,
-            "cost": 325555,
+            "flatId": 30,
+            "cost": 400000,
             "flatAddress": {
-                "id": 21,
-                "houseNo": 14,
-                "street": "RamaPuraRoad",
-                "city": "DeogharA",
-                "state": "Jharkhand",
-                "pin": 110002,
+                "addressId": 29,
+                "houseNo": 35,
+                "street": "KalyaniGhospara",
+                "city": "Kalyani",
+                "state": "West Bengal",
+                "pin": 741235,
                 "country": "India"
             },
             "availability": "yes"
         },
         "tenant": {
-            "tenantId": 21,
+            "tenantId": 36,
             "tenantName": "AmitKumarGupta",
-            "tenantAge": 22,
+            "tenantAge": 34,
             "flatAddress": {
-                "id": 15,
-                "houseNo": 16,
-                "street": "RKMVRoadA",
-                "city": "Deoghar",
-                "state": "Jharkahnd",
-                "pin": 841460,
+                "addressId": 31,
+                "houseNo": 36,
+                "street": "RajaBazar",
+                "city": "Prayagraj",
+                "state": "Uttar Pradesh",
+                "pin": 211001,
                 "country": "India"
             }
         },
-        "bookingFromDate": "2016-11-01",
-        "bookingToDate": "2016-11-06"
-    }*/	
+        "bookingFromDate": "2021-05-01",
+        "bookingToDate": "2021-05-06"
+    }
+    
+    
+    {
+        "bookingNo": 45,
+        "flat": {
+            "flatId": 44,
+            "cost": 400000,
+            "flatAddress": {
+                "addressId": 43,
+                "houseNo": 41,
+                "street": "KalyaniGhospara",
+                "city": "Kalyani",
+                "state": "West Bengal",
+                "pin": 741235,
+                "country": "India"
+            },
+            "availability": "yes"
+        },
+        "tenant": {
+            "tenantId": 46,
+            "tenantName": "AmitKumarGupta",
+            "tenantAge": 40,
+            "flatAddress": {
+                "addressId": 45,
+                "houseNo": 47,
+                "street": "RajaBazar",
+                "city": "Prayagraj",
+                "state": "Uttar Pradesh",
+                "pin": 211001,
+                "country": "India"
+            }
+        },
+        "bookingFromDate": "2021-05-01",
+        "bookingToDate": "2021-05-06"
+    }
+    
+    
+    
+    **/	
 	 
 	
 	
